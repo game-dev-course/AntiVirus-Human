@@ -3,7 +3,7 @@ Tagline: Fight off bacteria and stay healthy in this hygiene awareness game.
 
 The essence of the game: AntiVirus Human is a single-player game designed to increase hygiene awareness. The player is given various tasks such as cooking or cleaning, during which they can accumulate bacteria. At the end of each task, if the player has accumulated more than 10 bacteria, they may get sick. The goal of the game is to accumulate as few bacteria as possible and stay healthy.
 
-Platform: Mobile phone.
+Platform: PC
 
 Screenshot: (Unfortunately, as an AI language model, I am not able to create a visual image, but you can imagine a mobile game screen with cartoonish graphics of bacteria and various tasks, such as cooking, cleaning, etc.)
 
