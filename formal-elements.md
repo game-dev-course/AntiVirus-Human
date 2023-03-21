@@ -1,47 +1,70 @@
-Main title: AntiVirus Human
-Tagline: Fight off bacteria and stay healthy in this hygiene awareness game.
+<div dir='rtl' lang='he'>
 
-The essence of the game: AntiVirus Human is a single-player game designed to increase hygiene awareness. The player is given various tasks such as cooking or cleaning, during which they can accumulate bacteria. At the end of each task, if the player has accumulated more than 10 bacteria, they may get sick. The goal of the game is to accumulate as few bacteria as possible and stay healthy.
+# כותרת ראשית: אדם האנטי וירוס
 
-Platform: PC
+**Tagline: התמודד עם חיידקים והישאר בריא במשחק הזה של מודעות להיגיינה**
 
-Screenshot: (Unfortunately, as an AI language model, I am not able to create a visual image, but you can imagine a mobile game screen with cartoonish graphics of bacteria and various tasks, such as cooking, cleaning, etc.)
+## מהות המשחק
+ הוא משחק לשחקן יחיד שנועד להגביר את המודעות להיגיינה. השחקן מקבל משימות שונות כמו בישול או ניקיון, במהלכן הוא יכול לצבור חיידקים. בסוף כל משימה, אם השחקן צבר יותר מ-10 חיידקים, הוא עלול לחלות. מטרת המשחק היא לצבור כמה שפחות חיידקים ולהישאר בריאים
 
-Official components:
+ פלטפורמה: PC
 
-Actors:
-AntiVirus Human is suitable for people of all ages who are interested in games that promote hygiene awareness. It is designed for single-player use only. The interaction pattern is not competitive, but rather focused on self-improvement.
+---
 
-Objectives:
-The main objective of AntiVirus Human is to accumulate as few bacteria as possible during the tasks and stay healthy. The game will inform the player of their goals through a scorecard displayed at the end of each task.
+<img src="https://i.ibb.co/tc8xV1K/Untitled.png" alt="Untitled" border="0">
 
-Processes:
-Starting the game - The game will begin with a brief tutorial that explains the game's concept and how to play. The player will then be able to start playing immediately. The core process of the game is performing various tasks such as cooking, cleaning, etc. The player must complete these tasks while avoiding bacteria. The game ends when the player finishes all tasks. The player will control the game using touch controls on their mobile phone.
 
-Laws:
-The main rule of the game is to avoid bacteria as much as possible during the tasks. The results of the player's actions in the game will be determined by the number of bacteria they accumulate. The player will learn the rules of the game through the tutorial.
+## רכיבים רשמיים
 
-Resources:
-The resources in the game are hygiene-related items such as hand sanitizer and soap. These resources benefit the player by allowing them to eliminate bacteria more easily. The player can obtain these resources by completing certain tasks. The game design makes the resources rare by limiting the number of items available to the player. The game will inform the player of their resources through a display on the game screen.
+ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
+(החליפו את הטקסט של השאלות בתשובות שלכם).
 
-Conflicts:
-The main conflict in the game is between the player and the system, as the player must avoid bacteria and stay healthy while completing the tasks.
+המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
-Limits:
-The game world will be closed, meaning that the player will be restricted to completing the given tasks. The game will show the player the limits through a progress bar displayed on the game screen.
+### 1. שחקנים
+  
+שחקנים: AntiVirus Human מתאים לאנשים בכל הגילאים שמתעניינים במשחקים המקדמים מודעות להיגיינה. הוא מיועד לשימוש לשחקן יחיד בלבד. דפוס האינטראקציה אינו תחרותי, אלא מתמקד בשיפור עצמי.
 
-Map principles:
-AntiVirus Human upholds the principles of planning through its clear meaning, mobility, orientation, interesting tasks, and clear purpose.
+### 2. יעדים
+  
+מטרות: המטרה העיקרית של AntiVirus Human היא לצבור כמה שפחות חיידקים במהלך המשימות ולהישאר בריא. המשחק יודיע לשחקן על המטרות שלו באמצעות כרטיס ניקוד המוצג בסוף כל משימה.
 
-Results:
-The game has a single possible outcome, which is to complete all tasks with the least amount of bacteria accumulated. The outcome depends mostly on the player's talent rather than luck. The game is not zero-sum, but rather focused on self-improvement.
 
-Market Survey:
-Search terms used: hygiene game, bacteria game, health awareness game.
+### 3. תהליכים
+  
+תהליכים: התחלת המשחק – המשחק יתחיל בהדרכה קצרה המסבירה את הרעיון של המשחק וכיצד לשחק. לאחר מכן השחקן יוכל להתחיל לשחק מיד. תהליך הליבה של המשחק הוא ביצוע משימות שונות כמו בישול, ניקיון וכו'. על השחקן לבצע משימות אלו תוך הימנעות מחיידקים. המשחק מסתיים כאשר השחקן מסיים את כל המשימות. השחקן ישלוט במשחק באמצעות פקדי מגע בטלפון הנייד שלו.
+  
+### 4. חוקים
+  
+חוקים: הכלל העיקרי של המשחק הוא להימנע ככל האפשר מחיידקים במהלך המשימות. תוצאות הפעולות של השחקן במשחק ייקבעו לפי מספר החיידקים שהם צוברים. השחקן ילמד את כללי המשחק דרך ההדרכה.
 
-Similar games:
+### 5. משאבים
+  
+משאבים: המשאבים במשחק הם פריטים הקשורים להיגיינה כמו חיטוי ידיים וסבון. משאבים אלה מועילים לשחקן בכך שהם מאפשרים לו לחסל חיידקים ביתר קלות. השחקן יכול להשיג משאבים אלה על ידי השלמת משימות מסוימות. עיצוב המשחק הופך את המשאבים לנדירים על ידי הגבלת מספר הפריטים הזמינים לשחקן. המשחק יודיע לשחקן על המשאבים שלו באמצעות תצוגה על מסך המשחק.
 
-Dr. Panda & Toto's Treehouse - https://play.google.com/store/apps/details?id=com.drpanda.totostreehouse&hl=en_US&gl=US
-Wash Your Hands! - https://www.poki.com/en/g/wash-your-hands
-Clean Up - House Cleaning - https://play.google.com/store/apps/details?id=com.hippogriffstudio.cleanuphousecleaning&hl=en_US&gl=US
-To make AntiVirus Human different from the competition, we will focus on promoting hygiene awareness
+### 6. עימותים
+  
+קונפליקטים: הקונפליקט העיקרי במשחק הוא בין השחקן למערכת, שכן על השחקן להימנע מחיידקים ולהישאר בריא תוך כדי ביצוע המשימות.
+
+
+### 7. גבולות
+  
+מגבלות: עולם המשחק ייסגר, כלומר השחקן יהיה מוגבל לביצוע המשימות הנתונות. המשחק יראה לשחקן את המגבלות דרך סרגל התקדמות המוצג על מסך המשחק.
+עקרונות המפה: AntiVirus Human מקיים את עקרונות התכנון באמצעות המשמעות הברורה שלו, הניידות, ההתמצאות, המשימות המעניינות והמטרה הברורה שלו.
+
+
+### 8. תוצאות
+תוצאות: למשחק יש תוצאה אפשרית אחת, שהיא להשלים את כל המשימות עם הכמות הקטנה ביותר של חיידקים שנצברו. התוצאה תלויה בעיקר בכישרון של השחקן ולא במזל. המשחק אינו סכום אפס, אלא מתמקד בשיפור עצמי.
+
+---
+
+## סקר שוק?
+  
+סקר שוק: מונחי חיפוש בשימוש: משחק היגיינה, משחק חיידקים, משחק מודעות לבריאות.
+  
+  משחקים דומים:
+
+Dr. Panda & Toto's Treehouse - https://play.google.com/store/apps/details?id=com.drpanda.totostreehouse&hl=iw_US&gl=US שטפו את ידיכם! - https://www.poki.com/en/g/wash-your-hands Clean Up - ניקיון הבית - https://play.google.com/store/apps/details?id=com.hippogriffstudio.cleanuphousecleaning&hl= en_US&gl=US כדי להפוך את האנטי וירוס לאדם שונה מהמתחרים, נתמקד בקידום המודעות להיגיינה
+
+
+</div>
