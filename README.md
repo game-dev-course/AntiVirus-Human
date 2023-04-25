@@ -1,9 +1,15 @@
-<div dir='rtl' lang='he'>
-
 # כותרת ראשית: אדם האנטי וירוס
 
  הוא משחק לשחקן יחיד שנועד להגביר את המודעות להיגיינה. השחקן מקבל משימות שונות כמו בישול או ניקיון, במהלכן הוא יכול לצבור חיידקים. בסוף כל משימה, אם השחקן צבר יותר מ-10 חיידקים, הוא עלול לחלות. מטרת המשחק היא לצבור כמה שפחות חיידקים ולהישאר בריאים
 
+## איך משחקים
+ניתן להזיז את השחקן אופקית עם החצים שמאלה וימינה.
+בנוסף, כל פריט (צלחות או כפפות וכו') ניתן לאסוף עם מקש E במקלדת.
 
-https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md
-</div>
+כעת, למשחק יש שלב אחד של לקיחת צלחות מהערימה לשטיפה, כאשר בדרך ישנם כפפות שמעלות פחות וירוסים לשחקן. 
+
+![image](https://user-images.githubusercontent.com/74311807/234155458-493dd4c2-7a44-4671-910f-3a6b8b7b6feb.png)
+ 
+
+[https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md](https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md)
+
