@@ -1,12 +1,12 @@
-# כותרת ראשית: אדם האנטי וירוס
+# Headline: The Anti-Virus Man
 
-הוא משחק לשחקן יחיד שנועד להגביר את המודעות להיגיינה. השחקן מקבל משימות שונות כמו בישול או ניקיון, במהלכן הוא יכול לצבור חיידקים. בסוף כל משימה, אם השחקן צבר יותר מ-10 חיידקים, הוא עלול לחלות. מטרת המשחק היא לצבור כמה שפחות חיידקים ולהישאר בריאים
+It is a single player game designed to increase hygiene awareness. The player is given various tasks such as cooking or cleaning, during which he can accumulate bacteria. At the end of each mission, if the player has accumulated more than 10 bacteria, he may get sick. The goal of the game is to accumulate as few bacteria as possible and stay healthy.
 
-## איך משחקים
-ניתן להזיז את השחקן אופקית עם החצים שמאלה וימינה.
-בנוסף, כל פריט (צלחות או כפפות וכו') ניתן לאסוף עם מקש E במקלדת.
+## How To Play
+The player can be moved horizontally with the left and right arrows.
+In addition, any item (plates or gloves, etc.) can be collected with the E key on the keyboard.
 
-כעת, למשחק יש שלב אחד של לקיחת צלחות מהערימה לשטיפה, כאשר בדרך ישנם כפפות שמעלות פחות וירוסים לשחקן. 
+Now, the game has one step of taking plates from the stack to wash, with gloves along the way that give the player less viruses.
 
 ![image](https://user-images.githubusercontent.com/74311807/234155458-493dd4c2-7a44-4671-910f-3a6b8b7b6feb.png)
  
