@@ -8,6 +8,13 @@ In addition, any item (plates or gloves, etc.) can be collected with the E key o
 
 Now, the game has one step of taking plates from the stack to wash, with gloves along the way that give the player less viruses.
 
+## Game screen picture
 ![image](https://user-images.githubusercontent.com/74311807/234155458-493dd4c2-7a44-4671-910f-3a6b8b7b6feb.png)
 
-[https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md](https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md)
+---
+
+[link to formal elements of the game](https://github.com/game-dev-course/AntiVirus-Human/blob/main/formal-elements.md)
+
+Here is the game's itch.io link: [https://amirg00.itch.io/antivirus-human](https://amirg00.itch.io/antivirus-human)
+
+Unity's version used is 2021.3.18f1.
